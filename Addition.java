@@ -9,7 +9,7 @@ public class Addition {
       mult=num1*num2;
       System.out.println("Sum of these numbers: "+sum);
       System.out.println("sub of these number:"+sub); 
-      System.out.println("mult of these numbers:+mult);
+      System.out.println("mult of these numbers:"+mult);
                          
    }
 }
